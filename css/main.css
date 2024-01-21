@@ -79,3 +79,9 @@ body {
     font-size: 36px;
   }
 }
+
+.title {
+  font-size: 96px;
+  font-weight: 600;
+  text-align: center;
+}
